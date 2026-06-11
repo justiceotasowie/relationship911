@@ -1,0 +1,70 @@
+
+{ 
+      "category": "marriage",
+      "images":"/images/marriage-img.webp",
+      "title":"Marriage Tips",
+      "items":[
+        {
+        "id": 1,
+        "title": "Prioritize Communication",
+        "advice": "Regular, honest conversations help maintain connection and understanding.",
+        "category": "marriage"
+      },
+      {
+        "id": 2,
+        "title": "Work as a Team",
+        "advice": "Approach challenges together rather than viewing each other as opponents.",
+        "category": "marriage"
+      },
+      {
+        "id": 3,
+        "title": "Keep Dating Each Other",
+        "advice": "Continue creating meaningful experiences and quality time together.",
+        "category": "marriage"
+      },
+      {
+        "id": 4,
+        "title": "Practice Forgiveness",
+        "advice": "Address mistakes constructively and avoid holding grudges.",
+        "category": "marriage"
+      },
+      {
+        "id": 5,
+        "title": "Show Appreciation Daily",
+        "advice": "Small expressions of gratitude can strengthen emotional bonds.",
+        "category": "marriage"
+      },
+      {
+        "id": 6,
+        "title": "Respect Differences",
+        "advice": "Different opinions and personalities can complement each other.",
+        "category": "marriage"
+      },
+      {
+        "id": 7,
+        "title": "Set Shared Goals",
+        "advice": "Working toward common financial, family, or personal goals creates unity.",
+        "category": "marriage"
+      },
+      {
+        "id": 8,
+        "title": "Support Personal Growth",
+        "advice": "Encourage each other's ambitions and self-development.",
+        "category": "marriage"
+      },
+      {
+        "id": 9,
+        "title": "Manage Conflict Respectfully",
+        "advice": "Focus on understanding and resolution rather than blame.",
+        "category": "marriage"
+      },
+      {
+        "id": 10,
+        "title": "Protect Trust",
+        "advice": "Trust is strengthened through honesty, reliability, and transparency.",
+        "category": "marriage"
+      }
+    ]
+  }
+
+

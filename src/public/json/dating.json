@@ -1,0 +1,71 @@
+{
+  "category": "dating",
+   "images":"/images/dating-img.webp",
+   "title":"Dating Tips",
+     "items":  [
+      {
+      "id": 1,
+      "title": "Communicate Openly",
+      "advice": "Share your thoughts and feelings honestly while also listening to your partner's perspective.",
+      "category": "dating"
+    },
+    {
+      "id": 2,
+      "title": "Respect Boundaries",
+      "advice": "Healthy relationships require respecting each other's personal space, values, and limits.",
+      "category": "dating"
+    },
+    {
+      "id": 3,
+      "title": "Build Trust",
+      "advice": "Trust grows through honesty, consistency, and keeping promises.",
+      "category": "dating"
+    },
+    {
+      "id": 4,
+      "title": "Spend Quality Time Together",
+      "advice": "Make time for meaningful conversations and shared activities.",
+      "category": "dating"
+    },
+    {
+      "id": 5,
+      "title": "Handle Conflict Maturely",
+      "advice": "Disagreements should focus on solving problems, not winning arguments.",
+      "category": "dating"
+    },
+    {
+      "id": 6,
+      "title": "Show Appreciation",
+      "advice": "Express gratitude for your partner's efforts and positive qualities.",
+      "category": "dating"
+    },
+    {
+      "id": 7,
+      "title": "Maintain Individual Growth",
+      "advice": "Continue pursuing your own goals, hobbies, and friendships.",
+      "category": "dating"
+    },
+    {
+      "id": 8,
+      "title": "Be Patient",
+      "advice": "Strong relationships develop over time through shared experiences.",
+      "category": "dating"
+    },
+    {
+      "id": 9,
+      "title": "Support Each Other",
+      "advice": "Encourage your partner during both successes and challenges.",
+      "category": "dating"
+    },
+    {
+      "id": 10,
+      "title": "Have Realistic Expectations",
+      "advice": "No relationship is perfect; focus on growth and understanding.",
+      "category": "dating"
+    }
+  ]
+}
+
+
+   
+

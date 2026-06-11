@@ -1,0 +1,68 @@
+{
+    "category": "parent-child",
+    "images":"/images/parentchildren-img.webp",
+    "title":"Parent and Children Relationship Tips",
+    "items":[
+    {
+      "id": 1,
+      "title": "Listen Without Judgment",
+      "advice": "Allow children to express themselves freely before offering advice or correction.",
+      "category": "parent-child"
+    },
+    {
+      "id": 2,
+      "title": "Be Consistent",
+      "advice": "Consistent rules and expectations help children feel secure.",
+      "category": "parent-child"
+    },
+    {
+      "id": 3,
+      "title": "Lead by Example",
+      "advice": "Children often learn more from actions than words.",
+      "category": "parent-child"
+    },
+    {
+      "id": 4,
+      "title": "Spend Quality Time Together",
+      "advice": "Regular shared activities strengthen emotional connections.",
+      "category": "parent-child"
+    },
+    {
+      "id": 5,
+      "title": "Encourage Independence",
+      "advice": "Allow children to make age-appropriate decisions and learn from experiences.",
+      "category": "parent-child"
+    },
+    {
+      "id": 6,
+      "title": "Praise Effort",
+      "advice": "Recognize hard work and persistence, not just achievements.",
+      "category": "parent-child"
+    },
+    {
+      "id": 7,
+      "title": "Create Open Communication",
+      "advice": "Foster an environment where children feel safe discussing concerns.",
+      "category": "parent-child"
+    },
+    {
+      "id": 8,
+      "title": "Teach Responsibility",
+      "advice": "Assign age-appropriate responsibilities to build confidence and accountability.",
+      "category": "parent-child"
+    },
+    {
+      "id": 9,
+      "title": "Show Unconditional Love",
+      "advice": "Children thrive when they know they are valued regardless of mistakes.",
+      "category": "parent-child"
+    },
+    {
+      "id": 10,
+      "title": "Practice Patience",
+      "advice": "Growth and learning take time; respond with understanding and guidance.",
+      "category": "parent-child"
+    }
+  ]
+}
+
