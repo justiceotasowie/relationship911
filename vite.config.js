@@ -12,7 +12,8 @@ export default defineConfig({
         specificCategory: resolve(__dirname, "src/specificCategory/index.html"),
         aichat: resolve(__dirname, "src/specificCategory/aichat.html"),
         comment: resolve(__dirname, "src/specificCategory/comment.html"),
-        favorite: resolve(__dirname, "src/favorite/index.html")
+        favorite: resolve(__dirname, "src/favorite/index.html"),
+        workshop: resolve(__dirname, "src/workshopdirectory/workshop.html")
 
       },
     },
